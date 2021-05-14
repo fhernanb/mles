@@ -56,7 +56,7 @@ shinyUI(fluidPage(
                                          max = 8)),
             conditionalPanel(condition="input.distri == 'Exponential'",
                              sliderInput(inputId = "t",
-                                         label = HTML("Population rate &#981;="),
+                                         label = HTML("Population rate &#966;="),
                                          value = 1,
                                          min = 1,
                                          max = 5)),
