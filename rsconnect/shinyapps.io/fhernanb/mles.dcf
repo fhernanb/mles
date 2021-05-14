@@ -5,8 +5,8 @@ account: fhernanb
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 4131948
-bundleId: 4598704
+bundleId: 4598758
 url: https://fhernanb.shinyapps.io/mles/
-when: 1621005900.33345
+when: 1621006864.5537
 asMultiple: FALSE
 asStatic: FALSE

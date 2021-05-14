@@ -66,7 +66,7 @@ shinyUI(fluidPage(
                         min = 0.07,
                         max = 0.09),
             br(),
-            p("This app was developed by the statistician Mateo Ochoa Medina from
+            p("This app was developed by Mateo Ochoa Medina and Freddy Hernandez from
             Universidad Nacional de Colombia:"),
             br(),
             img(src="https://fhernanb.github.io/docs/logo_unal_negro.png",
